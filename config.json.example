@@ -1,0 +1,6 @@
+{
+    "key":                  "YOUR_SMUGMUG_API_KEY",
+    "secret":               "YOUR_SMUGMUG_API_SECRET",
+    "access_token":         "YOUR_OAUTH_ACCESS_TOKEN",
+    "access_token_secret":  "YOUR_OAUTH_ACCESS_TOKEN_SECRET"
+}
